@@ -9,7 +9,7 @@ What is the network size of any particular word?
 
 Files
 -----
-Everything is pretty self explanatory.   The dictionary houses all of the functionality, EntryPoint will print out a quick go around of the what to expect, and test.py houses test cases.  
+Everything is pretty self explanatory.   The dictionary houses all of the functionality, EntryPoint will print out a quick go around of what to expect, and test.py houses test cases.  
 
 TODO
 ----
